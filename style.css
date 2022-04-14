@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(255, 148, 127);
+}
+
+.test_image_and_result
+{
+    background-color: lightgrey;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px grey;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.result_style
+{
+    background-color: white;
+    border-radius: 25px;
+    font-size: 17px;
+}
+
+.test
+{
+    font-size: 20px;
+}
+
+.responsive
+{
+    height: 110px;
+    width: 150px;
+}
+
+.conclusion
+{
+    background-color: lightpink;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
